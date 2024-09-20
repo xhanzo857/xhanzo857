@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Alex Johnson 👋
 
-<!--
-**xhanzo857/xhanzo857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Software Developer passionate about building web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+## Skills
+- JavaScript
+- Python
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Portfolio Website](https://github.com/alexjohnson/portfolio)
+- [Weather App](https://github.com/alexjohnson/weather-app)
+
+## Contact
+Feel free to reach out: alex.johnson@example.com
