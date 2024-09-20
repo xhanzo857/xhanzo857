@@ -22,4 +22,4 @@ I'm a passionate Software Developer with over 5 years of experience in building 
   - Participated in code reviews and contributed to team knowledge sharing.
 
 ## Contact
-Feel free to reach out: alex.johnson@example.com
+Feel free to reach out
